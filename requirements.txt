@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+feedparser
+vaderSentiment
+newsapi-python
