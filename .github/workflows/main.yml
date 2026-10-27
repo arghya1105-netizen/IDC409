@@ -1,0 +1,17 @@
+finance-news-project/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── notebooks/
+│   ├── 01_data_collection.ipynb
+│   ├── 02_eda.ipynb
+│   └── 03_model.ipynb
+│
+├── data/
+│   ├── market.db
+│   └── clean_data.csv
+│
+└── src/
+    └── collect.py
